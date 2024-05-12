@@ -11,7 +11,12 @@ Download Microsoft Power BI Desktop from here -> [Link](https://www.microsoft.co
 
 ## Interactive Visual
 
-![Dashboard](/img/Dashboard.png)
-![Weapon & Attack Analysis](/img/Weapon%20%26%20Attack%20Analysis.png)
-![Attack Forecast](/img/Attack%20Forecast.png)
-![Attack details Walkthrough](/img/Attack%20Details%20Walkthrough.png)
+### Desktop View
+
+![Desktop1](img/Desktop1.png)
+![Desktop2](img/Desktop2.png)
+
+### Mobile View
+
+![Mobile1](img/Mobile1.png)
+![Mobile2](img/Mobile2.png)
